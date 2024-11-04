@@ -4,7 +4,14 @@
 Este é um projeto web que apresenta uma lista dos carros esportivos mais rápidos do mundo, com informações sobre cada modelo, incluindo sua velocidade máxima, características e imagens.
 
 ## Tecnologias Utilizadas 🛠️
-![HTML5](./images/html5.png) ![CSS3](./images/css3.png)
+
+<p>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5 Logo" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3 Logo" width="40" height="40"/>
+</p>
+
+- **HTML5**
+- **CSS3**
 
 ## Estrutura do Projeto 📁
 O projeto está estruturado da seguinte forma:
